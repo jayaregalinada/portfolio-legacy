@@ -1,0 +1,8 @@
+## J46 Portfolio
+##### LEGACY VERSION
+
+For Laravel 5.0 support
+
+* * *
+
+###### CREATED AND DEVELOPED BY [JAY ARE GALINADA](JAYAREGALINADA@GMAIL.COM)

@@ -202,11 +202,11 @@ return [
         'Validator' => 'Illuminate\Support\Facades\Validator',
         'View'      => 'Illuminate\Support\Facades\View',
 
-        'Socialize' => Laravel\Socialite\Facades\Socialite::class,
-        'Image'     => Intervention\Image\Facades\Image::class,
-        'Html'      => Illuminate\Html\HtmlFacade::class,
-        'Form'      => Illuminate\Html\FormFacade::class,
-        'Entrust'   => Zizaco\Entrust\EntrustFacade::class,
+        'Socialize' => 'Laravel\Socialite\Facades\Socialite',
+        'Image'     => 'Intervention\Image\Facades\Image',
+        'Html'      => 'Illuminate\Html\HtmlFacade',
+        'Form'      => 'Illuminate\Html\FormFacade',
+        'Entrust'   => 'Zizaco\Entrust\EntrustFacade',
 
     ],
 

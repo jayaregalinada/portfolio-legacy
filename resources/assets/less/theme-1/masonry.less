@@ -1,0 +1,19 @@
+[masonry] {
+    img {
+        max-width: 100%;
+    }
+    &.masonry-with-gutter {
+        .masonry-brick {
+            margin-bottom: 10px;
+        }
+    }
+    .masonry-brick {
+        max-width: 46%;
+        @media (min-width: @screen-md-min) {
+            max-width: 31%;
+        }
+        &.with-outline {
+            outline: 1px solid @gray;
+        }
+    }
+}
